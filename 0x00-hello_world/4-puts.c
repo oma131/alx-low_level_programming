@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the phrase "Programming is like building a multilingual puzzle
- * Return: 0 if exited properly, non-zero otherwise
+ * main - function needs to return integer at the end of execution
+ * Return: return 0 as success and 1 as fail
  */
 it main(void)
 {
