@@ -10,7 +10,7 @@ int main(void)
 
 	while (*ch)
 	{
-		_putchar(*ch);
+		putchar(*ch);
 		ch++;
 	}
 	_putchar('\n');
