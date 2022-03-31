@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * isSqrt - helper function for _sqrt_recursion
+ * find_root - helper function for _sqrt_recursion
  * @n: input number
- * @i: iteratotr
- * Return: square root of number
+ * @root: param for testing
+ * Return: 0 as success
  */
 
 int find_root(int n, int root)
